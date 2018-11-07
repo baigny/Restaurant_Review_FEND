@@ -46,7 +46,7 @@ article, aside, canvas, details, figcaption, figure, footer, header, hgroup, men
 #footer {
   background-color: #444;
   color: #fff;
-  font-size: 2em;
+  font-size: 12px;
   letter-spacing: 1px;
   padding: 25px;
   text-align: center;
@@ -65,7 +65,7 @@ nav h1 {
 }
 nav h1 a {
   color: #fff;
-  font-size: 2 em;
+  font-size: 12px;
   font-weight: bolder;
   letter-spacing: 10px;
   text-transform: uppercase;
@@ -121,7 +121,7 @@ nav h1 a {
 }
 .filter-options h2 {
   color: white;
-  font-size: 1em;
+  font-size: 12px;
   font-weight: normal;
   line-height: 1;
   margin: 0 20px;
@@ -129,7 +129,7 @@ nav h1 a {
 .filter-options select {
   background-color: #fff;
   border: 1px solid #444;
-  font-size: 1.1em;
+  font-size: 12px;
   margin: 10px;
   padding: 0 10px;
   width: 200px;
@@ -337,7 +337,7 @@ justify-content: center;
 }
 
 .reviews-name{
-  font-size:1.5 rem;
+  font-size:12px;
   font-weight:bolder;
   width:40%;
   display:inline-block;
@@ -352,10 +352,4 @@ justify-content: center;
   display: inline-block;
   text-align: right;
 }
-
-@media screen  and (min-width: 320px) 
- {  }
-
-@media screen and (min-width: 768px)
-{}
 
