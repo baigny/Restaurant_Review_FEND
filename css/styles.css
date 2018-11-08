@@ -256,7 +256,7 @@ nav h1 a {
   display:flex;
   flex-direction:column;
     overflow: hidden;
-   padding: 40px 40px 30px;
+    padding: 20px 20px; 
    width:100%;
 }
 
